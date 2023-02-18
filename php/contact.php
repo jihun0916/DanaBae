@@ -1,6 +1,6 @@
 <?php
     $from = 'nK Contact Form';
-    $to = 'nkdevinfo@gmail.com';
+    $to = 'daeunbae5084456@gmail.com';
     $subject = 'Message from nK contact form';
 
     function errorHandler ($message) {
